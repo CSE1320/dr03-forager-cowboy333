@@ -6,11 +6,10 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #ffffff;
+    background-color: rgb(87,144,118);
     padding: 10px 0;
     z-index: 100;
   }
-  
   .navItem {
     font-size: 24px;
     cursor: pointer;

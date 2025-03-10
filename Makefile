@@ -2,9 +2,9 @@
 ####################### Makefile Template ##############################
 ########################################################################
 # Student settings
-NAME = YOURNAME
-SID = YOURSID
-EMAIL = YOURUTAEMAIL
+NAME = Dong Nguyen
+SID = 1002101426
+EMAIL = dvn1426@mavs.uta.edu
 SEMESTER = SPRING2025
 PROJECT=PROJ03
  
